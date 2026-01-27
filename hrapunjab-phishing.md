@@ -92,6 +92,7 @@ The discovered phishing campaign is targeting users of the Belgian bank Argenta 
 
 ## Indicators of Compromise
 ### Infrastructure
+```text
 162[.]214[.]80[.]31
 www[.]argentadigipass-be[.]hrapunjab[.]com
 argentadigipass-be[.]hrapunjab[.]com
@@ -108,7 +109,9 @@ www[.]gouv-amendes-fr[.]thebeginningstep[.]com
 www[.]amendes-gouv[.]thebeginningstep[.]com
 hxxps[:]//ofcompound[.]fra1[.]digitaloceanspaces[.]com/quality?
 hxxps[:]//healthyminerals[.]tor1[.]digitaloceanspaces[.]com/small?
+```
 ### Certificate thumbprints
+```text
 89a80629088292db88b60e232c58386cc13684eb
 f68099d95bed44a4564c2bf30a49c0082e3fb117
 eee696eded1c07fda3fbdfe48753255c3dd25f67
@@ -116,11 +119,13 @@ cc3456ebe39db2789194db81bd7be3181fde1ce0
 d9a9a3d974eda7479a15f3a4857f5b2664a87d42
 3383433e8a513d9e1c29035884a0c698e37d26d4
 377436437bb00a37890c52923c496e71d7f85063
-
+```
 ## Mitre ATT&CK Techniques
+``` text
 T1566.002 Spearphishing
 T1036 Masquerading
 T1071.001 Application Layer Protocol: Web Protocols
 T1583.003 Acquire Infrastructure: Virtual Private Server
 T1583.006 Acquire Infrastructure: Web Services
 T1588.005 # Obtain Capabilities: Exploits (Assuming that the attacker compromised the different domains where Wordpress sites were hosted)
+```
