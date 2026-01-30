@@ -11,7 +11,7 @@ Although the final phishing pages were no longer accessible at the time of analy
 
 ## Email Analysis
 Below is a phishing email received on January 26th, 2026, at 00:33.
-<img width="1426" height="1075" alt="Pasted image 20260126071316" src="https://github.com/user-attachments/assets/a6fa49e1-cb8b-49d2-a80c-b41f35772a92" />
+<img width="1426" height="1075" alt="Argenta" src="https://github.com/user-attachments/assets/0b596f1d-a9f6-424d-945d-ece56c434b49" />
 
 When looking at the email, we can see that it is targeted towards users of the Belgian bank Argenta. The email is written in Dutch and French, which is typical for Belgian users. The email text contains one peculiarity (apart from being very plain): In the Dutch text the attacker writes "Argenta Ban k". This is an obvious mistake. It should be written as "Bank". 
 
